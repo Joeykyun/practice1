@@ -22,7 +22,7 @@
     if (_detailItem != newDetailItem) {
         _detailItem = newDetailItem;
         UIFont *font = [UIFont preferredFontForTextStyle:UIFontTextStyleHeadline];
-        
+        //self.view
         
         // Update the view.
         [self configureView];
