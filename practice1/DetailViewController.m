@@ -21,6 +21,8 @@
 {
     if (_detailItem != newDetailItem) {
         _detailItem = newDetailItem;
+        UIFont *font = [UIFont preferredFontForTextStyle:UIFontTextStyleHeadline];
+        
         
         // Update the view.
         [self configureView];
