@@ -23,7 +23,9 @@
         _detailItem = newDetailItem;
         UIFont *font = [UIFont preferredFontForTextStyle:UIFontTextStyleHeadline];
         //self.view
-        //new brach
+        //new branch
+        //ok
+        
         
         // Update the view.
         [self configureView];
